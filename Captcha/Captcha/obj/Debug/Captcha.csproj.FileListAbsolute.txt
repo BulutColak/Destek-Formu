@@ -1,0 +1,225 @@
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\ApplicationInsights.config
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\csc.exe
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\System.Collections.Immutable.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\vbc.exe
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe.config
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Captcha.dll.config
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Captcha.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Captcha.pdb
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\CaptchaMvc.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.Web.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.ApplicationInsights.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.Web.Infrastructure.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Helpers.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Mvc.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Razor.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Webpages.Deployment.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Webpages.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Webpages.Razor.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.Web.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.ApplicationInsights.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Razor.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Webpages.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Webpages.Deployment.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Webpages.Razor.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Helpers.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Mvc.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\obj\Debug\Captcha.pdb
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Antlr3.Runtime.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Newtonsoft.Json.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Optimization.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\WebGrease.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Antlr3.Runtime.pdb
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Newtonsoft.Json.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\System.Web.Optimization.xml
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Validation.dll
+c:\users\betul.aslan\documents\visual studio 2015\Projects\Captcha\Captcha\bin\Validation.pdb
+L:\Captcha\Captcha\bin\ApplicationInsights.config
+L:\Captcha\Captcha\bin\roslyn\csc.exe
+L:\Captcha\Captcha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+L:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+L:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.dll
+L:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+L:\Captcha\Captcha\bin\roslyn\Microsoft.CSharp.Core.targets
+L:\Captcha\Captcha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+L:\Captcha\Captcha\bin\roslyn\System.Collections.Immutable.dll
+L:\Captcha\Captcha\bin\roslyn\System.Reflection.Metadata.dll
+L:\Captcha\Captcha\bin\roslyn\vbc.exe
+L:\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe
+L:\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe.config
+L:\Captcha\Captcha\bin\Captcha.dll.config
+L:\Captcha\Captcha\bin\Captcha.dll
+L:\Captcha\Captcha\bin\Captcha.pdb
+L:\Captcha\Captcha\bin\Antlr3.Runtime.dll
+L:\Captcha\Captcha\bin\Microsoft.AI.Agent.Intercept.dll
+L:\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.dll
+L:\Captcha\Captcha\bin\Microsoft.AI.PerfCounterCollector.dll
+L:\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+L:\Captcha\Captcha\bin\Microsoft.AI.Web.dll
+L:\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.dll
+L:\Captcha\Captcha\bin\Microsoft.ApplicationInsights.dll
+L:\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+L:\Captcha\Captcha\bin\Microsoft.Web.Infrastructure.dll
+L:\Captcha\Captcha\bin\Newtonsoft.Json.dll
+L:\Captcha\Captcha\bin\System.Web.Helpers.dll
+L:\Captcha\Captcha\bin\System.Web.Mvc.dll
+L:\Captcha\Captcha\bin\System.Web.Optimization.dll
+L:\Captcha\Captcha\bin\System.Web.Razor.dll
+L:\Captcha\Captcha\bin\System.Web.Webpages.Deployment.dll
+L:\Captcha\Captcha\bin\System.Web.Webpages.dll
+L:\Captcha\Captcha\bin\System.Web.Webpages.Razor.dll
+L:\Captcha\Captcha\bin\WebGrease.dll
+L:\Captcha\Captcha\bin\Antlr3.Runtime.pdb
+L:\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.xml
+L:\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+L:\Captcha\Captcha\bin\Microsoft.AI.Web.xml
+L:\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.xml
+L:\Captcha\Captcha\bin\Microsoft.ApplicationInsights.xml
+L:\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+L:\Captcha\Captcha\bin\Newtonsoft.Json.xml
+L:\Captcha\Captcha\bin\System.Web.Optimization.xml
+L:\Captcha\Captcha\bin\Validation.pdb
+L:\Captcha\Captcha\bin\System.Web.Razor.xml
+L:\Captcha\Captcha\bin\System.Web.Webpages.xml
+L:\Captcha\Captcha\bin\System.Web.Webpages.Deployment.xml
+L:\Captcha\Captcha\bin\System.Web.Webpages.Razor.xml
+L:\Captcha\Captcha\bin\System.Web.Helpers.xml
+L:\Captcha\Captcha\bin\System.Web.Mvc.xml
+L:\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+L:\Captcha\Captcha\obj\Debug\Captcha.dll
+L:\Captcha\Captcha\obj\Debug\Captcha.pdb
+L:\Captcha\Captcha\bin\BotDetect.dll
+L:\Captcha\Captcha\bin\BotDetect.Web.Mvc.dll
+L:\Captcha\Captcha\bin\MDCaptcha.dll
+D:\Captcha\Captcha\bin\ApplicationInsights.config
+D:\Captcha\Captcha\bin\roslyn\csc.exe
+D:\Captcha\Captcha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Captcha\Captcha\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Captcha\Captcha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Captcha\Captcha\bin\roslyn\System.Collections.Immutable.dll
+D:\Captcha\Captcha\bin\roslyn\System.Reflection.Metadata.dll
+D:\Captcha\Captcha\bin\roslyn\vbc.exe
+D:\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe
+D:\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe.config
+D:\Captcha\Captcha\bin\Captcha.dll.config
+D:\Captcha\Captcha\bin\Captcha.dll
+D:\Captcha\Captcha\bin\Captcha.pdb
+D:\Captcha\Captcha\bin\Antlr3.Runtime.dll
+D:\Captcha\Captcha\bin\BotDetect.dll
+D:\Captcha\Captcha\bin\BotDetect.Web.Mvc.dll
+D:\Captcha\Captcha\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.dll
+D:\Captcha\Captcha\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Captcha\Captcha\bin\Microsoft.AI.Web.dll
+D:\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.dll
+D:\Captcha\Captcha\bin\Microsoft.ApplicationInsights.dll
+D:\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Captcha\Captcha\bin\Microsoft.Web.Infrastructure.dll
+D:\Captcha\Captcha\bin\Newtonsoft.Json.dll
+D:\Captcha\Captcha\bin\System.Web.Helpers.dll
+D:\Captcha\Captcha\bin\System.Web.Mvc.dll
+D:\Captcha\Captcha\bin\System.Web.Optimization.dll
+D:\Captcha\Captcha\bin\System.Web.Razor.dll
+D:\Captcha\Captcha\bin\System.Web.Webpages.Deployment.dll
+D:\Captcha\Captcha\bin\System.Web.Webpages.dll
+D:\Captcha\Captcha\bin\System.Web.Webpages.Razor.dll
+D:\Captcha\Captcha\bin\WebGrease.dll
+D:\Captcha\Captcha\bin\Antlr3.Runtime.pdb
+D:\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.xml
+D:\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Captcha\Captcha\bin\Microsoft.AI.Web.xml
+D:\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.xml
+D:\Captcha\Captcha\bin\Microsoft.ApplicationInsights.xml
+D:\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Captcha\Captcha\bin\Newtonsoft.Json.xml
+D:\Captcha\Captcha\bin\System.Web.Optimization.xml
+D:\Captcha\Captcha\bin\Validation.pdb
+D:\Captcha\Captcha\bin\System.Web.Razor.xml
+D:\Captcha\Captcha\bin\System.Web.Webpages.xml
+D:\Captcha\Captcha\bin\System.Web.Webpages.Deployment.xml
+D:\Captcha\Captcha\bin\System.Web.Webpages.Razor.xml
+D:\Captcha\Captcha\bin\System.Web.Helpers.xml
+D:\Captcha\Captcha\bin\System.Web.Mvc.xml
+D:\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+D:\Captcha\Captcha\obj\Debug\Captcha.dll
+D:\Captcha\Captcha\obj\Debug\Captcha.pdb
+I:\Captcha\Captcha\bin\ApplicationInsights.config
+I:\Captcha\Captcha\bin\roslyn\csc.exe
+I:\Captcha\Captcha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Captcha\Captcha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Captcha\Captcha\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Captcha\Captcha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Captcha\Captcha\bin\roslyn\System.Collections.Immutable.dll
+I:\Captcha\Captcha\bin\roslyn\System.Reflection.Metadata.dll
+I:\Captcha\Captcha\bin\roslyn\vbc.exe
+I:\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe
+I:\Captcha\Captcha\bin\roslyn\VBCSCompiler.exe.config
+I:\Captcha\Captcha\bin\Captcha.dll.config
+I:\Captcha\Captcha\bin\Captcha.dll
+I:\Captcha\Captcha\bin\Captcha.pdb
+I:\Captcha\Captcha\bin\Antlr3.Runtime.dll
+I:\Captcha\Captcha\bin\BotDetect.dll
+I:\Captcha\Captcha\bin\BotDetect.Web.Mvc.dll
+I:\Captcha\Captcha\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.dll
+I:\Captcha\Captcha\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Captcha\Captcha\bin\Microsoft.AI.Web.dll
+I:\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.dll
+I:\Captcha\Captcha\bin\Microsoft.ApplicationInsights.dll
+I:\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Captcha\Captcha\bin\Microsoft.Web.Infrastructure.dll
+I:\Captcha\Captcha\bin\Newtonsoft.Json.dll
+I:\Captcha\Captcha\bin\System.Web.Helpers.dll
+I:\Captcha\Captcha\bin\System.Web.Mvc.dll
+I:\Captcha\Captcha\bin\System.Web.Optimization.dll
+I:\Captcha\Captcha\bin\System.Web.Razor.dll
+I:\Captcha\Captcha\bin\System.Web.Webpages.Deployment.dll
+I:\Captcha\Captcha\bin\System.Web.Webpages.dll
+I:\Captcha\Captcha\bin\System.Web.Webpages.Razor.dll
+I:\Captcha\Captcha\bin\WebGrease.dll
+I:\Captcha\Captcha\bin\Antlr3.Runtime.pdb
+I:\Captcha\Captcha\bin\Microsoft.AI.DependencyCollector.xml
+I:\Captcha\Captcha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Captcha\Captcha\bin\Microsoft.AI.Web.xml
+I:\Captcha\Captcha\bin\Microsoft.AI.WindowsServer.xml
+I:\Captcha\Captcha\bin\Microsoft.ApplicationInsights.xml
+I:\Captcha\Captcha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Captcha\Captcha\bin\Newtonsoft.Json.xml
+I:\Captcha\Captcha\bin\System.Web.Optimization.xml
+I:\Captcha\Captcha\bin\Validation.pdb
+I:\Captcha\Captcha\bin\System.Web.Razor.xml
+I:\Captcha\Captcha\bin\System.Web.Webpages.xml
+I:\Captcha\Captcha\bin\System.Web.Webpages.Deployment.xml
+I:\Captcha\Captcha\bin\System.Web.Webpages.Razor.xml
+I:\Captcha\Captcha\bin\System.Web.Helpers.xml
+I:\Captcha\Captcha\bin\System.Web.Mvc.xml
+I:\Captcha\Captcha\obj\Debug\Captcha.csprojResolveAssemblyReference.cache
+I:\Captcha\Captcha\obj\Debug\Captcha.dll
+I:\Captcha\Captcha\obj\Debug\Captcha.pdb

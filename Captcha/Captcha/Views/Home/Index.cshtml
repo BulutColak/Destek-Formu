@@ -1,0 +1,127 @@
+﻿@model Captcha.Models.SupportForm
+@using CaptchaMvc.HtmlHelpers
+@using CaptchaMvc;
+@using System.Web.Optimization
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    @Scripts.Render("~/bundles/jquery-unobtrusive")
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+</head>
+<body>
+
+
+
+
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-area">
+            <h2>Destek Formu</h2>
+            <div class="form clearfix">
+                <div class="row">
+                    <div class="col">
+                        <div class="input-element">
+                            @Html.Editor("txtNameSurname", new { htmlAttributes = new { @class = "text-input", autocomplete = "off", placeholder = "Ad Soyad *" } })
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="input-element">
+                            @Html.Editor("txtUserName", new { htmlAttributes = new { @class = "text-input", autocomplete = "off", placeholder = "Kullanıcı Adı" } })
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="input-element">
+                            @Html.Editor("txtEposta", new { htmlAttributes = new { @class = "text-input", autocomplete = "off", placeholder = "E-Posta Adresi *" } })
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="input-element">
+                            @Html.Editor("txtMobilPhone", new { htmlAttributes = new { @class = "text-input", autocomplete = "off", placeholder = "Cep Telefonunuz *" } })
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="captcha-area">
+
+                        <img id="imgCapthcaCamp" src="~/Ajax/Captcha.ashx" alt="" />
+                        <input type="button" value="Yenile" onclick="return RefreshCapthca()" />
+
+                        @Html.Editor("txtCaptcha", new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                    <button type="submit" id="btnSubmit" class="submit-btn">Gönder</button>
+                </div>
+                <div class="row">
+                    <div class="error-text">Lütfen (*) işaretli alanları boş bırakmayınız.</div>
+                </div>
+                <div id="dvResultMessage">
+
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+
+    <script type="text/javascript">
+        function RefreshCapthca() {
+            $("#txtGuvenlik").val("");
+            $.ajax({
+                url: "/Ajax/Captcha.ashx", //make sure the path is correct
+                cache: false,
+                type: 'POST',
+                success: function (response) {
+                    var dummy = Math.floor((Math.random() * 10000) + 1);
+                    $("#imgCapthcaCamp").attr("src", "/Ajax/Captcha.ashx?dummy=" + dummy);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    var errorHtml = "<ul><li>Beklenmedik bir hata oluştu lütfen daha sonra tekrar deneyiniz.</li></ul>";
+
+                }
+            });
+        }
+    </script>
+    <script>
+
+        $(document).ready(function () {
+
+            $('#btnSubmit').click(function (e) {
+
+                var datas = {
+                    nameSurname: $('#txtNameSurname').val(),
+                    userName: $('#txtUserName').val(),
+                    eposta: $('#txtEposta').val(),
+                    mobilPhone: $('#txtMobilPhone').val(),
+                    captcha: $('#txtCaptcha').val()
+                };
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/Form",
+                    data: datas,
+                    success: function (response) {
+                        if (response != "") {
+                            $('#dvResultMessage').html(response);
+                        }
+                        RefreshCapthca();
+                    }
+                });
+
+            });
+        });
+    </script>
+</body>
+</html>
